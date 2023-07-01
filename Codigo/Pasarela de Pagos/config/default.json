@@ -1,0 +1,12 @@
+{
+  "locale": "es",
+  "webServer": {
+    "routes": {
+      "providerPaymentGateways_id": "/providerPaymentGateways/:id",
+      "providerPaymentGateways_name": "/providerPaymentGatewaysByName/:name",
+      "providerPaymentGateways": "/providerPaymentGateways",
+      "providersWhoHavePaid": "/providersWhoHavePaid"
+    },
+    "baseUrl": "/api"
+  }
+}

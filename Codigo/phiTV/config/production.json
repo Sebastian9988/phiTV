@@ -1,0 +1,23 @@
+{
+  "locale": "es",
+  "db": {
+    "conectionString": "mysql://root:secret@127.0.0.1:3306/gie2022"
+  },
+  "webServer": {
+    "routes": {
+      "events_id": "/events/:id",
+      "events": "/events",
+      "providers": "/providers"
+    },
+    "port": 55311,
+    "baseUrl": "/api"
+  },
+  "paging": {
+    "defaultOffset": 0,
+    "defaultLimit": 10,
+    "maxLimit": 500
+  },
+  "configuration": {
+    "LEVEL": 2
+  }
+}

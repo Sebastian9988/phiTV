@@ -1,0 +1,11 @@
+{
+  "locale": "es",
+  "webServer": {
+    "routes": {
+      "providerRegulatoryUnits_id": "/providerRegulatoryUnits/:id",
+      "providerRegulatoryUnits_name": "/providerRegulatoryUnitsByName/:name",
+      "providerRegulatoryUnits": "/providerRegulatoryUnits"
+    },
+    "baseUrl": "/api"
+  }
+}
