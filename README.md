@@ -2,16 +2,6 @@
 
 This is a task carried out for the ORT university, in which I implemented tactics and architecture patterns that allowed my system to have good performance and modifiability as main quality attributes.
 
-## Installation
-
-Follow these steps:
-
-1. In the Payment Gateway, Regulatory Unit, and phiTV components, run the `npm install` command to download project dependencies.
-2. Make sure you have `Docker Desktop` installed.
-3. Install MongoDB version 4.18.0 in Docker, running on port 27027.
-4. Use the `node index` command for the Payment Gateway and Regulatory Unit APIs.
-5. Use the `node app` command for phiTV.
-
 ## Description
 
 This project is a web application that offers various functionalities related to streaming services. The application has been developed using NodeJs with javascript
@@ -23,6 +13,16 @@ You can find the documentation at [here](https://github.com/Sebastian9988/phiTV/
 If you have any questions or need further assistance, feel free to reach out to me.
 
 I hope you enjoy using this application!
+
+## Installation
+
+Follow these steps:
+
+1. In the Payment Gateway, Regulatory Unit, and phiTV components, run the `npm install` command to download project dependencies.
+2. Make sure you have `Docker Desktop` installed.
+3. Install MongoDB version 4.18.0 in Docker, running on port 27027.
+4. Use the `node index` command for the Payment Gateway and Regulatory Unit APIs.
+5. Use the `node app` command for phiTV.
 
 ## Environment Variables
 
