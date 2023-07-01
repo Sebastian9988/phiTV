@@ -12,6 +12,18 @@ Follow these steps:
 4. Use the `node index` command for the Payment Gateway and Regulatory Unit APIs.
 5. Use the `node app` command for phiTV.
 
+## Description
+
+This project is a web application that offers various functionalities related to streaming services. The application has been developed using NodeJs with javascript
+
+For detailed information on how to use and configure the application, I recommend referring to the official documentation.
+
+You can find the documentation at [here](https://github.com/Sebastian9988/phiTV/blob/main/Documentacion/Documentacion%20phiTV.pdf).
+
+If you have any questions or need further assistance, feel free to reach out to me.
+
+I hope you enjoy using this application!
+
 ## Environment Variables
 
 The project utilizes environment variables for configuration. In the `.env` file, you will find two important variables related to email configuration:
